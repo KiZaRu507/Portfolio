@@ -1,0 +1,144 @@
+body{
+    text-align: center;
+    color: #40514e;
+    margin: 0px;
+    padding: 0px;
+    border: 0px solid;
+    font-family: 'Open Sans';
+   
+}
+@font-face {
+    font-family: 'Sacremento';
+    src: url("C:\Users\idiot\OneDrive\Desktop\Trees\Sofia Pro Soft Medium.otf");
+}
+p{
+    line-height: 2.5;
+}
+
+h1{
+    margin: 1px;
+    color: #66bfbf;
+    font-size: 90px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0px;
+}
+hr{
+    border: dotted 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 60px auto 60px auto;
+}
+.webintro{
+    font-family: 'Roboto Mono', monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color: #66bfbf;
+}
+.skill-1{
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    margin: 0px;
+
+}
+.middle-container{
+    line-height: 2;
+    background-color: #F9FAA6;
+    font-family: 'Libre Baskerville', serif;
+}
+.bottom-container{
+    padding-top: 30px;
+    background-color: #48FBE6;
+    font-family: "myFirstFont";
+}
+.luffy_pic{
+    height: 200px;
+    width: 200px;
+    
+}
+h2{
+    color: #66bfbf;
+}
+/* You need to use the float property on img element you can also use it on text element to make the text flaot */
+/* .name{
+    position: fixed;    
+    margin-top: 20px;
+    right :550px;
+} */
+.bottom-cloud{
+    position: absolute;
+    
+}
+.profile{
+    padding-top: 100px;
+    width: 50%;
+    margin:  auto;
+    
+}
+a{
+    margin:0px 20px 0px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #eaf6f6;
+}
+.text{
+    float: left;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.skill-2{
+    width: 25%;
+    float:right;
+}
+.intro{
+    background-color: aquamarine;
+    margin: 0px;
+    border: 0px solid;
+    
+    
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 0px;
+    padding: 30px;
+}
+.copyright{
+    color: #eaf6f6;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #c2ba2b);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #c2ba2b);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #c2ba2b);
+    background-image: -o-linear-gradient(top, #3cb0fd, #c2ba2b);
+    background-image: linear-gradient(to bottom, #3cb0fd, #c2ba2b);
+    text-decoration: none;
+  }
